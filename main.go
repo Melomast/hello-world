@@ -28,14 +28,13 @@ func main() {
 }
 */
 
-/*
 func main() {
 	const pi = 3.14
 
 	fmt.Println(pi)
 }
-*/
 
+/*
 func main() {
 	// +
 	// -
@@ -49,3 +48,4 @@ func main() {
 	result := b % a
 	fmt.Println(result)
 }
+*/
