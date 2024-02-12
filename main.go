@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 /*
 func main() {
 	//Declaration
@@ -34,7 +36,6 @@ func main() {
 }
 */
 
-/*
 func main() {
 	// +
 	// -
@@ -48,4 +49,3 @@ func main() {
 	result := b % a
 	fmt.Println(result)
 }
-*/
